@@ -1,0 +1,48 @@
+body{
+   background-color: pink;
+}
+header{
+    text-align: center;
+    padding: 20px;
+}
+header img{
+    width: 400px;
+    margin-top: 50px;
+
+}
+
+
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+image{
+    background-position: center;
+}
+.contacto {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.contacto a {
+  display: flex;            
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;    
+  color: black;            
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.contacto a:hover {
+  color: hotpink;           
+}
+
+.icono {
+  width: 24px;
+  height: 24px;
+}
