@@ -8,7 +8,7 @@ header{
 
 }
 header img{
- width: 400px;
+ width: 300px;
  border-radius: 10px;
  margin: 25px;
 }
@@ -29,3 +29,4 @@ p{
   .contacto{
     margin: 60px;
   }
+
